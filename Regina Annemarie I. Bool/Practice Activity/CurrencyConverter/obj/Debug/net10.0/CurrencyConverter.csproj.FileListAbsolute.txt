@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\CurrencyConverter\bin\Debug\net10.0\CurrencyConverter.exe
+C:\Users\LENOVO\source\repos\CurrencyConverter\bin\Debug\net10.0\CurrencyConverter.deps.json
+C:\Users\LENOVO\source\repos\CurrencyConverter\bin\Debug\net10.0\CurrencyConverter.runtimeconfig.json
+C:\Users\LENOVO\source\repos\CurrencyConverter\bin\Debug\net10.0\CurrencyConverter.dll
+C:\Users\LENOVO\source\repos\CurrencyConverter\bin\Debug\net10.0\CurrencyConverter.pdb
+C:\Users\LENOVO\source\repos\CurrencyConverter\obj\Debug\net10.0\CurrencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\CurrencyConverter\obj\Debug\net10.0\CurrencyConverter.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\CurrencyConverter\obj\Debug\net10.0\CurrencyConverter.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\CurrencyConverter\obj\Debug\net10.0\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\CurrencyConverter\obj\Debug\net10.0\CurrencyConverter.dll
+C:\Users\LENOVO\source\repos\CurrencyConverter\obj\Debug\net10.0\refint\CurrencyConverter.dll
+C:\Users\LENOVO\source\repos\CurrencyConverter\obj\Debug\net10.0\CurrencyConverter.pdb
+C:\Users\LENOVO\source\repos\CurrencyConverter\obj\Debug\net10.0\CurrencyConverter.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\CurrencyConverter\obj\Debug\net10.0\ref\CurrencyConverter.dll
