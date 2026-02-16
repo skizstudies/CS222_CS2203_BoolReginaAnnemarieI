@@ -12,3 +12,18 @@ C:\Users\LENOVO\source\repos\MusicPlaylist\obj\Debug\net10.0\refint\MusicPlaylis
 C:\Users\LENOVO\source\repos\MusicPlaylist\obj\Debug\net10.0\MusicPlaylist.pdb
 C:\Users\LENOVO\source\repos\MusicPlaylist\obj\Debug\net10.0\MusicPlaylist.genruntimeconfig.cache
 C:\Users\LENOVO\source\repos\MusicPlaylist\obj\Debug\net10.0\ref\MusicPlaylist.dll
+C:\Users\LENOVO\Documents\GitHub\CS222_CS2203_BoolReginaAnnemarieI\Regina Annemarie I. Bool\Laboratory Activity 1 - 16-FEB-2026\02 - Music Player Organizer\MusicPlaylist\bin\Debug\net10.0\MusicPlaylist.exe
+C:\Users\LENOVO\Documents\GitHub\CS222_CS2203_BoolReginaAnnemarieI\Regina Annemarie I. Bool\Laboratory Activity 1 - 16-FEB-2026\02 - Music Player Organizer\MusicPlaylist\bin\Debug\net10.0\MusicPlaylist.deps.json
+C:\Users\LENOVO\Documents\GitHub\CS222_CS2203_BoolReginaAnnemarieI\Regina Annemarie I. Bool\Laboratory Activity 1 - 16-FEB-2026\02 - Music Player Organizer\MusicPlaylist\bin\Debug\net10.0\MusicPlaylist.runtimeconfig.json
+C:\Users\LENOVO\Documents\GitHub\CS222_CS2203_BoolReginaAnnemarieI\Regina Annemarie I. Bool\Laboratory Activity 1 - 16-FEB-2026\02 - Music Player Organizer\MusicPlaylist\bin\Debug\net10.0\MusicPlaylist.dll
+C:\Users\LENOVO\Documents\GitHub\CS222_CS2203_BoolReginaAnnemarieI\Regina Annemarie I. Bool\Laboratory Activity 1 - 16-FEB-2026\02 - Music Player Organizer\MusicPlaylist\bin\Debug\net10.0\MusicPlaylist.pdb
+C:\Users\LENOVO\Documents\GitHub\CS222_CS2203_BoolReginaAnnemarieI\Regina Annemarie I. Bool\Laboratory Activity 1 - 16-FEB-2026\02 - Music Player Organizer\MusicPlaylist\obj\Debug\net10.0\MusicPlaylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\GitHub\CS222_CS2203_BoolReginaAnnemarieI\Regina Annemarie I. Bool\Laboratory Activity 1 - 16-FEB-2026\02 - Music Player Organizer\MusicPlaylist\obj\Debug\net10.0\MusicPlaylist.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\GitHub\CS222_CS2203_BoolReginaAnnemarieI\Regina Annemarie I. Bool\Laboratory Activity 1 - 16-FEB-2026\02 - Music Player Organizer\MusicPlaylist\obj\Debug\net10.0\MusicPlaylist.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\GitHub\CS222_CS2203_BoolReginaAnnemarieI\Regina Annemarie I. Bool\Laboratory Activity 1 - 16-FEB-2026\02 - Music Player Organizer\MusicPlaylist\obj\Debug\net10.0\MusicPlaylist.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\CS222_CS2203_BoolReginaAnnemarieI\Regina Annemarie I. Bool\Laboratory Activity 1 - 16-FEB-2026\02 - Music Player Organizer\MusicPlaylist\obj\Debug\net10.0\MusicPlaylist.sourcelink.json
+C:\Users\LENOVO\Documents\GitHub\CS222_CS2203_BoolReginaAnnemarieI\Regina Annemarie I. Bool\Laboratory Activity 1 - 16-FEB-2026\02 - Music Player Organizer\MusicPlaylist\obj\Debug\net10.0\MusicPlaylist.dll
+C:\Users\LENOVO\Documents\GitHub\CS222_CS2203_BoolReginaAnnemarieI\Regina Annemarie I. Bool\Laboratory Activity 1 - 16-FEB-2026\02 - Music Player Organizer\MusicPlaylist\obj\Debug\net10.0\refint\MusicPlaylist.dll
+C:\Users\LENOVO\Documents\GitHub\CS222_CS2203_BoolReginaAnnemarieI\Regina Annemarie I. Bool\Laboratory Activity 1 - 16-FEB-2026\02 - Music Player Organizer\MusicPlaylist\obj\Debug\net10.0\MusicPlaylist.pdb
+C:\Users\LENOVO\Documents\GitHub\CS222_CS2203_BoolReginaAnnemarieI\Regina Annemarie I. Bool\Laboratory Activity 1 - 16-FEB-2026\02 - Music Player Organizer\MusicPlaylist\obj\Debug\net10.0\MusicPlaylist.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\GitHub\CS222_CS2203_BoolReginaAnnemarieI\Regina Annemarie I. Bool\Laboratory Activity 1 - 16-FEB-2026\02 - Music Player Organizer\MusicPlaylist\obj\Debug\net10.0\ref\MusicPlaylist.dll
