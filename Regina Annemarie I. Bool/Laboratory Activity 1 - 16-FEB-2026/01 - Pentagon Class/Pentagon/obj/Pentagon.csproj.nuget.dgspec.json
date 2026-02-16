@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Documents\\GitHub\\CS222_CS2203_BoolReginaAnnemarieI\\Regina Annemarie I. Bool\\Practice Activity\\CurrencyConverter\\CurrencyConverter.csproj": {}
+    "C:\\Users\\LENOVO\\source\\repos\\Pentagon\\Pentagon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Documents\\GitHub\\CS222_CS2203_BoolReginaAnnemarieI\\Regina Annemarie I. Bool\\Practice Activity\\CurrencyConverter\\CurrencyConverter.csproj": {
+    "C:\\Users\\LENOVO\\source\\repos\\Pentagon\\Pentagon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\GitHub\\CS222_CS2203_BoolReginaAnnemarieI\\Regina Annemarie I. Bool\\Practice Activity\\CurrencyConverter\\CurrencyConverter.csproj",
-        "projectName": "CurrencyConverter",
-        "projectPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\CS222_CS2203_BoolReginaAnnemarieI\\Regina Annemarie I. Bool\\Practice Activity\\CurrencyConverter\\CurrencyConverter.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\Pentagon\\Pentagon.csproj",
+        "projectName": "Pentagon",
+        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\Pentagon\\Pentagon.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\CS222_CS2203_BoolReginaAnnemarieI\\Regina Annemarie I. Bool\\Practice Activity\\CurrencyConverter\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\Pentagon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

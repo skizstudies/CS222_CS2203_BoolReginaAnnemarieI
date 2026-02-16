@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Pentagon\obj\Debug\net10.0\Pentagon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Pentagon\obj\Debug\net10.0\Pentagon.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Pentagon\obj\Debug\net10.0\Pentagon.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Pentagon\obj\Debug\net10.0\Pentagon.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Pentagon\bin\Debug\net10.0\Pentagon.exe
+C:\Users\LENOVO\source\repos\Pentagon\bin\Debug\net10.0\Pentagon.deps.json
+C:\Users\LENOVO\source\repos\Pentagon\bin\Debug\net10.0\Pentagon.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Pentagon\bin\Debug\net10.0\Pentagon.dll
+C:\Users\LENOVO\source\repos\Pentagon\bin\Debug\net10.0\Pentagon.pdb
+C:\Users\LENOVO\source\repos\Pentagon\obj\Debug\net10.0\Pentagon.dll
+C:\Users\LENOVO\source\repos\Pentagon\obj\Debug\net10.0\refint\Pentagon.dll
+C:\Users\LENOVO\source\repos\Pentagon\obj\Debug\net10.0\Pentagon.pdb
+C:\Users\LENOVO\source\repos\Pentagon\obj\Debug\net10.0\Pentagon.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Pentagon\obj\Debug\net10.0\ref\Pentagon.dll
